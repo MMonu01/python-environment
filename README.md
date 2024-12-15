@@ -9,7 +9,7 @@
 ## For Managaing python packages
 
 1. pip freeze > requirements.txt ----- Create's a file called requirements.txt where all the packages with their version are shown this helps others to install the same version of a package.
-2. pip install -r requirements.txt ----- Install's the package described in requirements.txt and updates bin inside modules as per that
+2. pip install -r requirements.txt ----- Install's the package described in requirements.txt and updates lib inside modules as per that
 
 ## Run project
 
